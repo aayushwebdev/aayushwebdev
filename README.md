@@ -1,24 +1,80 @@
 ![logo](https://github.com/aayushwebdev/aayushwebdev/blob/main/github%20banner.png)
-<h1 align="center">Hi 👋, I'm Aayush Meshram</h1>
-<h3 align="center">A passionate frontend developer which helps peoples to boost their online presence</h3>
+<h1 align="center">Hi there, I'm Aayush Meshram 👋</h1>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-- 🔭 I’m currently working on **FARCRAWS, an ISRO Based Startup**
-
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 💬 Ask me about **HTML, CSS, Javascript, ReactJS**
-
-- 📫 How to reach me **aayushmeshofficial@gmail.com**
-
-- ⚡ I love to **read books and sports**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  A passionate MERN stack developer and AI enthusiast working at an ISRO-based startup.<br />
+  I build fast, scalable, and intelligent web applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushwebdev&show_icons=true&locale=en&layout=compact" alt="aayushwebdev" /></p>
+## 🚀 About Me
+
+- 👨‍💻 Currently working on **FARCRAWS** (An ISRO-backed startup) as a Web Developer
+- 🌱 Learning and building with **MERN Stack + AI Integration**
+- 🔬 Passionate about AI, automation, and education tech
+- 🎯 Actively seeking a **Summer Internship (Remote or In-person with accommodation)** — June to July 2025
+- 🧠 Fun fact: I love reading books, organizing events, and playing strategy-based games
+
+---
+
+## 💼 My Experience
+
+- 🛰 **FARCRAWS** – Built a real-time MERN + IoT dashboard for hardware device management
+- 🕹 **Bettel** – Led frontend for an esports fan platform, increasing engagement by 40%
+- 🧑‍🤝‍🧑 Led a team of 8+ developers/designers across multiple projects
+
+---
+
+## 🌟 Featured Projects
+
+### [Converso – AI Learning App](https://converso-lms.vercel.app/)
+An interactive AI-powered LMS with real-time voice interaction
+> Built using: `Next.js`, `Supabase`, `Clerk`, `Vapi`, `Sentry`
+
+### [SamvadAI](https://samvad-ai.vercel.app/)
+Text generation app using Gemini API + React
+> Built using: `React`, `Tailwind`, `Gemini API`
+
+---
+
+## 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+---
+
+## 📫 Contact Me
+
+- 📩 Email: [aayushmeshofficial@gmail.com](mailto:aayushmeshofficial@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/aayush-meshram-b70420258](https://linkedin.com/in/aayush-meshram-b70420258)
+- 🌍 Portfolio: *(Add your portfolio link here)*
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner – BIS Hackathon 2025** (1st out of 200+ teams)
+- 🚀 Scaled a real-time app for hardware monitoring in an IoT environment
+- 👥 Mentored junior developers and led development teams
+
+---
+
+## ⚡ Fun Fact
+
+> I love building voice-powered AI tools, organizing tech events, and reading about startup journeys!
+
+---
+
+⭐️ If you like my work, consider starring my repos and connecting on LinkedIn!
+
