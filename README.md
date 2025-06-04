@@ -1,4 +1,5 @@
-![logo](https://unsplash.com/photos/black-flat-screen-computer-monitor-SyvsTmuuZyM)
+<img src="banner (1).jpg" alt="Aayush Meshram Banner" style="width:100%;"/>
+
 <h1 align="center">Hi there, I'm Aayush Meshram 👋</h1>
 
 <p align="center">
