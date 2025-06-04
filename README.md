@@ -1,4 +1,4 @@
-![logo](https://github.com/aayushwebdev/aayushwebdev/blob/main/github%20banner.png)
+![logo](https://unsplash.com/photos/black-flat-screen-computer-monitor-SyvsTmuuZyM)
 <h1 align="center">Hi there, I'm Aayush Meshram 👋</h1>
 
 <p align="center">
