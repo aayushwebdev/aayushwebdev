@@ -58,7 +58,7 @@ Text generation app using Gemini API + React
 
 - 📩 Email: [aayushmeshofficial@gmail.com](mailto:aayushmeshofficial@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/aayush-meshram-b70420258](https://linkedin.com/in/aayush-meshram-b70420258)
-- 🌍 Portfolio: *(Add your portfolio link here)*
+- 🌍 Portfolio: https://aayushdevx.vercel.app/
 
 ---
 
